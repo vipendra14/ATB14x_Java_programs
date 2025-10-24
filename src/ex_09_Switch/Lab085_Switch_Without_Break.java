@@ -25,7 +25,7 @@ public class Lab085_Switch_Without_Break {
             case 7:
                 System.out.println("Day 7");
             default:
-                System.out.println("Non of these days are lsited");
+                System.out.println("Non of these days are listed");
         }
     }
 }
