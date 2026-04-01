@@ -9,9 +9,9 @@ public class Task_Factorial_HR {
         System.out.println("Enter the value");
         int n = sc.nextInt();
         int fact = 1;
-        if (n == 0){
-            fact = 1;
-        }
+    //    if (n == 0){
+     //       fact = 1;
+      //  }
         for(int i = 1; i<=n ; i++){
             fact = fact*i;
                     }
